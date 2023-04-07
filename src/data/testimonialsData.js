@@ -6,20 +6,20 @@ export const testimonialsData = [
   {
     image: image1,
     review:
-      "I made the right choice by choosing the Fitclub and by choosing the right plan and program I already achieved my ideal body!",
+      `"I made the right choice by choosing the Fitclub and by choosing the right plan and program I already achieved my ideal body!"`,
     name: 'MATHEW HENDRICKSON',
     status : 'ENTREPRENEUR'
   },
   {
     image: image2,
-    review: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi ipsam, ab itaque nam perferendis impedit sint ',
+    review: `"I feel strong and confident after joining Fitclub and I would prefer whoever likes to start their fitness lifestyle!"`,
     name: 'JOHN KEVIN',
-    status: 'COACH'
+    status: 'CUSTOMER'
   },
   {
     image : image3,
-    review:' Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minima aspernatur quod voluptatem',
+    review:`"Fitness lifestyle is a mind and muscle connection & one can be able to control their body by repeatedly doing workouts at Gym and I would suggest anyone to join Fitclub for sheer improvement!"`,
     name: 'FRANKLIN',
-    status: "CUSTOMER"
+    status: "TRAINER"
   }
 ];
