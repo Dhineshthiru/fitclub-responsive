@@ -79,7 +79,8 @@
     .left-t>:nth-child(3){
      font-size: xx-large;
     }
-    .right-t{
+    .right-t{ 
+        
         flex-direction: column;
         display: flex;
         align-items: center;
